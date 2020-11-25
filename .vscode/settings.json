@@ -38,6 +38,8 @@
         "unordered_map": "c",
         "utility": "c",
         "vector": "c",
-        "complex": "c"
+        "complex": "c",
+        "__functional_03": "c",
+        "__mutex_base": "c"
     }
 }
